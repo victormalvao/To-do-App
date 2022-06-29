@@ -13,10 +13,13 @@
 ```python
 ##instalando o ambiente virtual
 python -m venv venv
+
 ##Ativar seu ambiente virtual
 .\venv\Scripts\activate
-##Após ativiar, usei o comando abaixo
+
+##Após ativar, usei o comando abaixo
 pip install -r requirements.txt
+
 ##Já pode rodar o servidor
 flask run
 ```
